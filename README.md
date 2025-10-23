@@ -27,4 +27,7 @@ Soy estudiante de Ingenieria Informática con experiencia en frontend y diseño*
 ### 🧰 Herramientas
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
+
 
