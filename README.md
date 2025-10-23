@@ -1,4 +1,4 @@
-# 👋 Hola, soy José
+# 👋 Hola, soy Miguel
 
 💻 **Tecnologías que manejo:**
 
