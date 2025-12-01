@@ -32,3 +32,4 @@ Soy estudiante de **Ingeniería Informática** con experiencia en frontend y dis
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
+
