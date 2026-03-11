@@ -55,8 +55,8 @@ Trabajando con:
 
 * MySQL
 * PostgreSQL
-* SQL básico
-* Administración básica de bases de datos
+* SQL
+* Administración de bases de datos
 
 ---
 
@@ -96,9 +96,6 @@ En este perfil encontrarás repositorios sobre:
 
 # Actualmente aprendiendo
 
-* Administración avanzada de Linux
-* Infraestructura en Microsoft Azure
-* Redes y preparación para CCNA
 * Automatización de servidores
 * Contenedores y tecnologías DevOps
 
