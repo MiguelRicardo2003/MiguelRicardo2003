@@ -1,103 +1,53 @@
-# 👋 Hola, soy Miguel
+## 👋 ¡Hola! Soy Miguel
 
-🎓 Estudiante de **Ingeniería Informática**
-🖥️ Interesado en **Administración de Sistemas, Redes y Cloud Computing**
+💻 Apasionado por el desarrollo de software, la automatización y la infraestructura en la nube.
+🚀 Me enfoco en construir soluciones eficientes, escalables y automatizadas.
 
-Me apasiona aprender cómo funcionan las infraestructuras tecnológicas: servidores, redes, virtualización y cloud.
-Disfruto creando **laboratorios técnicos**, automatizando configuraciones y documentando experimentos.
-
----
-
-# 🖥️ Administración de Sistemas
-
-Experiencia trabajando con:
-
-* Windows Server
-* Linux (Ubuntu Server)
-* Gestión de usuarios y permisos
-* Administración mediante terminal
-* Configuración de servicios
-* Acceso remoto con SSH
-* Troubleshooting y análisis de logs
-
----
-
-# 🌐 Redes
-
-Actualmente estudiando tecnologías del camino **CCNA**.
-
-Conocimientos en:
-
-* TCP/IP
-* Routing
-* Switching
-* VLAN
-* Troubleshooting de red
-* Conceptos de infraestructura
-
----
-
-# ☁️ Cloud
-
-Trabajando con:
-
-* Microsoft Azure
-* Máquinas virtuales
-* Redes virtuales
-* Gestión de identidades
-* Infraestructura básica en la nube
-
----
-
-# Bases de Datos
-
-![Databases](https://skillicons.dev/icons?i=mysql,postgres)
-
-* MySQL
-* PostgreSQL
-* SQL
-* Administración de bases de datos
-
----
-
-# 💻 Desarrollo
-
-También tengo experiencia en desarrollo web.
+## 🛠️ Stack Tecnológico
 
 ### 🌐 Frontend
+![HTML](https://skillicons.dev/icons?i=html) **HTML5**  
+![CSS](https://skillicons.dev/icons?i=css) **CSS3**  
+![JavaScript](https://skillicons.dev/icons?i=js) **JavaScript**  
+![React](https://skillicons.dev/icons?i=react) **React**  
+![Next.js](https://skillicons.dev/icons?i=nextjs) **Next.js**  
+![Vite](https://skillicons.dev/icons?i=vite) **Vite**  
+![Tailwind](https://skillicons.dev/icons?i=tailwindcss) **Tailwind CSS**  
+![Figma](https://skillicons.dev/icons?i=figma) **Figma**
 
+---
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,tailwindcss,figma)
 
 ### ⚙️ Backend y Lenguajes
+![Node.js](https://skillicons.dev/icons?i=nodejs) **Node.js**  
+![Java](https://skillicons.dev/icons?i=java) **Java**  
+![C++](https://skillicons.dev/icons?i=cpp) **C++**
 
+---
 ![Backend](https://skillicons.dev/icons?i=nodejs,java,cpp)
 
+### 🗄️ Bases de datos
+![MySQL](https://skillicons.dev/icons?i=mysql) **MySQL**  
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) **PostgreSQL**
+
 ---
+![Databases](https://skillicons.dev/icons?i=mysql,postgres)
 
-# 🧰 Herramientas
+### 🧰 Herramientas
+![Git](https://skillicons.dev/icons?i=git) **Git**  
+![GitHub](https://skillicons.dev/icons?i=github) **GitHub**  
+![Postman](https://skillicons.dev/icons?i=postman) **Postman**  
+![Trello](https://skillicons.dev/icons?i=trello) **Trello**  
+![Jira](https://skillicons.dev/icons?i=jira) **Jira**  
+![n8n](https://skillicons.dev/icons?i=n8n) **n8n**
 
+---
 ![Tools](https://skillicons.dev/icons?i=git,github,postman,trello,jira)
 
-Uso **Git y GitHub** para gestionar proyectos, documentar laboratorios y mantener control de versiones.
-
----
-
-# 🧪 Laboratorios y Proyectos
-
-En este perfil encontrarás repositorios sobre:
-
-* Administración de **Linux**
-* Laboratorios de **Windows Server**
-* Prácticas de **redes**
-* Infraestructura y **cloud**
-* Documentación técnica de configuraciones
-
----
-
-# Actualmente aprendiendo
-
-* Automatización de servidores
-* Contenedores y tecnologías DevOps
+* ☁️ Enfocado en la nube  
+* 🔄 Automatización con n8n  
+* ⚙️ Automatización de servidores  
+* 🐳 Contenedores y tecnologías DevOps  
 
 ---
 
